@@ -5,4 +5,5 @@ This is a short explanation on each script for what they do
 4) 3-new_owner changes the owner of a file
 5) 4-empty creates an empty file called hello
 6) 5-execute adds execute permission to the owner of the file hello
-7)   
+7) 6-multiple_permissions executes permission to the owner , the group onwe and permission to other users
+8)    

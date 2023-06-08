@@ -9,4 +9,5 @@ This is a short explanation on each script for what they do
 8) 7-everboy adds execution permission to the owner, the group owner and othe users
 9) 8-James_Bond adds all permission to only other users
 10)9-John_Doe gives permission to a file in this format -rwxr-x-wx
-11)
+11)10-mirror_permissions mirrors the mode of a file and tranfer it to another file
+12)

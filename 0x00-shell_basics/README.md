@@ -7,3 +7,5 @@ When executed on a terminal,
 6) 5-listfilesdigitonly displays in long format files begininig with digits.
 7) 6-firstdirectory creates a file in a tmp directory.
 8) 7-movethatfile moves a file from /tmp to /tmp/my_first_directory
+9) 8-firstdelete deletes a file called betty.
+10)

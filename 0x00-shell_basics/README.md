@@ -16,4 +16,5 @@ When executed on a terminal,
 15)14-coy_html copys html files from subdirectory to the parent directory
 ADVACE BEGINS
 16)100-lets_move moves files beginnig with a capital letter to another directory.
-17)
+17)101-clean_emacs deletes all files that ends with "~"
+18)

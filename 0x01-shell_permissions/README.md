@@ -6,4 +6,6 @@ This is a short explanation on each script for what they do
 5) 4-empty creates an empty file called hello
 6) 5-execute adds execute permission to the owner of the file hello
 7) 6-multiple_permissions adds execution permission to the owner , the group onwe and permission to other users
-8) 7-everboy adds execution permission to the owner, the group owner and othe users   
+8) 7-everboy adds execution permission to the owner, the group owner and othe users
+9) 8-James_Bond adds all permission to only other users
+10)

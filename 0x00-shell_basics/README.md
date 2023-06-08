@@ -5,4 +5,5 @@ When executed on a terminal,
 4) 3-listfiles displays directory contents in a long format.
 5) 4-listmorefiles displays direction contents in a long format, aslo included are the hidden files
 6) 5-listfilesdigitonly displays in long format files begininig with digits.
-7) 6-firstdirectory creates a file in a tmp directory
+7) 6-firstdirectory creates a file in a tmp directory.
+8) 7-movethatfile moves a file from /tmp to /tmp/my_first_directory

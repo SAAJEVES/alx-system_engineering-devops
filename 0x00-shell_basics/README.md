@@ -8,4 +8,5 @@ When executed on a terminal,
 7) 6-firstdirectory creates a file in a tmp directory.
 8) 7-movethatfile moves a file from /tmp to /tmp/my_first_directory
 9) 8-firstdelete deletes a file called betty.
-10)
+10)9-firstdirdeletion deletes dirctory my_first_directory in /tmp
+11)10-

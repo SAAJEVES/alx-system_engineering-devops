@@ -18,4 +18,4 @@ ADVACE BEGINS
 16)100-lets_move moves files beginnig with a capital letter to another directory.
 17)101-clean_emacs deletes all files that ends with "~"
 18)102-tree creates subdirectory without creating the parent
-19)
+19)school.mgc to detect "SCHOOL" in a file

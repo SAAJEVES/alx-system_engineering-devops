@@ -9,4 +9,4 @@ When executed on a terminal,
 8) 7-movethatfile moves a file from /tmp to /tmp/my_first_directory
 9) 8-firstdelete deletes a file called betty.
 10)9-firstdirdeletion deletes dirctory my_first_directory in /tmp
-11)10-back moves the directory to the parent or previous one
+11)10-back moves the working directory to the  previous one

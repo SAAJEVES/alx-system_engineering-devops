@@ -10,3 +10,5 @@ When executed on a terminal,
 9) 8-firstdelete deletes a file called betty.
 10)9-firstdirdeletion deletes dirctory my_first_directory in /tmp
 11)10-back moves the working directory to the  previous one
+12)11-lists displays in long fomat all the files in the current directory, parent directory and boot directory
+13)12-

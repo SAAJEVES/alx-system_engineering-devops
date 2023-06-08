@@ -12,5 +12,7 @@ When executed on a terminal,
 11)10-back moves the working directory to the  previous one
 12)11-lists displays in long fomat all the files in the current directory, parent directory and boot directory
 13)12-file_type prints the type of file a named file is
-14) 13-symbolic link creates a symbolic link to another file
-15) 14-
+14)13-symbolic link creates a symbolic link to another file
+15)14-coy_html copys html files from subdirectory to the parent directory
+ADVACE BEGINS
+16)

@@ -10,4 +10,5 @@ This is a short explanation on each script for what they do
 9) 8-James_Bond adds all permission to only other users
 10)9-John_Doe gives permission to a file in this format -rwxr-x-wx
 11)10-mirror_permissions mirrors the mode of a file and tranfer it to another file
-12)
+12)11-directories_permissions adds execute permission to all subdirectories of the current directory
+13)

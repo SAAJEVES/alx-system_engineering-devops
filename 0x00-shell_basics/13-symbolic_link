@@ -1,0 +1,2 @@
+#!/bin/bash
+touch /bin/__ls__ /bin/__ls__ -> /bin/ls

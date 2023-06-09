@@ -13,4 +13,6 @@ This is a short explanation on each script for what they do
 12)11-directories_permissions adds execute permission to all subdirectories of the current directory
 13)12-directory_permissions creates a directory called my_dir with permissions 751 in the working directory
 14)13-change_group changes the group own to school for the file hello
-15)
+15)100-change_owner_and_group changes the owner to vinvent and the group owner to staff for all the files and subdirectories in wthe working directory
+16)
+17)

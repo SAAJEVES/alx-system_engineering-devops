@@ -11,4 +11,5 @@ This is a short explanation on each script for what they do
 10)9-John_Doe gives permission to a file in this format -rwxr-x-wx
 11)10-mirror_permissions mirrors the mode of a file and tranfer it to another file
 12)11-directories_permissions adds execute permission to all subdirectories of the current directory
-13)
+13)12-directory_permissions creates a directory called my_dir with permissions 751 in the working directory
+14)

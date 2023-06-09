@@ -15,4 +15,5 @@ This is a short explanation on each script for what they do
 14)13-change_group changes the group own to school for the file hello
 15)100-change_owner_and_group changes the owner to vinvent and the group owner to staff for all the files and subdirectories in wthe working directory
 16)101-symbolic_link_permissions changes the owner and the group owner of \_hello to vincent and staff
-17)
+17)102-if_only changes the owner of the file hello to betty only if it is owned by the user guillaume
+18)

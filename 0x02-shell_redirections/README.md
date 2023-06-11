@@ -1,4 +1,5 @@
 # This will give a short information on what each file in this folder does
 1) 0-hello_world prints "Hello, World" to the standard output
 2) 1-confused_smiley prints confused smiley
-3)
+3) 2-hellofile prints the content of passwd in etc directory
+4) 3-

@@ -18,7 +18,7 @@
 17) 16-whatsnext displays lines containing the pattern "root" and 3 lines after them in the file /etc/passwd
 18) 17-hatethisword display all the lines in the file /etc/passwd that do not contain the pattern "bin"
 19) 18-letteronly displays all lines od file /etc/ssh/sshd_config starting with a letter and including capital letters
-20) 19-
+20) 19-AZ replace all characters A and C from input to Z and e respectively
 21) 20-
 22) 21-
 23) 22- 

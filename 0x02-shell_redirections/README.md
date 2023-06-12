@@ -10,4 +10,5 @@
 9) 8-cwd_state writes into the file ls_cwd_contnet the result of the command ls -la
 10) 9-duplicate_last_line duplicate the last line of a file
 11) 10-no_more_js delete all regular files with a .js extension
-12) 11- 
+12) 11-directories counts the number of directories and sub directories in the current directory
+13) 12- 

@@ -11,4 +11,5 @@
 10) 9-duplicate_last_line duplicate the last line of a file
 11) 10-no_more_js delete all regular files with a .js extension
 12) 11-directories counts the number of directories and sub directories in the current directory
-13) 12- 
+13) 12-newest_file displays the 10 newest files in the current directory
+14) 13- 

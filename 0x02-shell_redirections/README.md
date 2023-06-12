@@ -5,4 +5,5 @@
 4) 3-twofiles display content of /etc/passwd and /etc/hosts
 5) 4-lastlines displays the last n lines of a file
 6) 5-firstlines displays the first n lines of a file
-7) 6-
+7) 6-third_line outputs the third line of file iact in the current working directory
+8) 7-

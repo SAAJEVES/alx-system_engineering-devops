@@ -4,3 +4,5 @@
 3) 2-hellofile prints the content of passwd in etc directory
 4) 3-twofiles display content of /etc/passwd and /etc/hosts
 5) 4-lastlines displays the last n lines of a file
+6) 5-firstlines displays the first n lines of a file
+7) 6-

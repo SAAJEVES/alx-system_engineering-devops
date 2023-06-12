@@ -1,2 +1,2 @@
 #!/bin/bash
-ls -lct | head -n 10
+ls -lc --time=atime | head -n 10

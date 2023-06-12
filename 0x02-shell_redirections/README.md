@@ -7,3 +7,5 @@
 6) 5-firstlines displays the first n lines of a file
 7) 6-third_line outputs the third line of file iact in the current working directory
 8) 7-
+9) 8-cwd_state writes into the file ls_cwd_contnet the result of the command ls -la
+10)

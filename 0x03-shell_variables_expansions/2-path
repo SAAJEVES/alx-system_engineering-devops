@@ -1,2 +1,2 @@
 #!/bin/bash
-touch $PATH/action
+export SAAJ="/action:$PATH"

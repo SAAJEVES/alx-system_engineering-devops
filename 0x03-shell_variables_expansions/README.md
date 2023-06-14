@@ -12,4 +12,5 @@
 11)  10-love_exponent_breath displays the result of "BREATH" to the poer "LOVE"
 12)  11-binary_to_decimal converts a number from base 2 to base 10
 13)  12-combination prints all possible combinations of two letters except oo
-14)  13-
+14)  13-print_float prints a number with two decimal places
+15)

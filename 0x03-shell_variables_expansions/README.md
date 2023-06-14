@@ -14,4 +14,5 @@
 13)  12-combination prints all possible combinations of two letters except oo
 14)  13-print_float prints a number with two decimal places
 15)  100-decimal_to_hexadecimal convers a number from base 10 to base 16
-16)  
+16)  101-rot13 encodes and decodes text using the rot13 encryption
+17)  102- 

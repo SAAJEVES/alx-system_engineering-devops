@@ -4,7 +4,7 @@
 
 i=0
 
-until ((i >= 10)); do
+until [ $i -ge 10 ]; do
 	echo "Best School"
 	((i += 1))
 done

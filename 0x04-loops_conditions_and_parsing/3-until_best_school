@@ -1,0 +1,10 @@
+#!/usr/bin/env bash
+
+# Using Until loop to echo "Best School" ten times
+
+i=0
+
+until ((i >= 10)); do
+	echo "Best School"
+	((i += 1))
+done

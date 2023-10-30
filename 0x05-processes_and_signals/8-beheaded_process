@@ -1,0 +1,12 @@
+#!/usr/bin/env bash
+# Bash script that kills the process 7-highlander
+
+name_of_process="7-highlander"
+
+pid=$(pgrep -f "$name_of_process")
+
+if [ -z "$pid" ]; then
+	echo "Nothing like '$pid' o!!"
+else
+	kill -9 "$pid"
+fi

@@ -5,7 +5,7 @@
 
 name_of_process="/tmp/my_process"
 
-while True; do
+while true; do
 	echo "I am alive!" >> "$name_of_process"
 	sleep 2
 done

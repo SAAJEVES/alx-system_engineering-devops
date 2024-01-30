@@ -52,6 +52,6 @@ if __name__ == '__main__':
     total_list = get_todo_list(url, user_id)
     val1, val2, val3 = get_list_info(total_list)
 
-    print(f"Employee {name} is done with tasks ({val1}/{val2}):")
+    print(f"Employee {name} is done with tasks({val1}/{val2}):")
     for _ in val3:
         print(f"\t {_}")
